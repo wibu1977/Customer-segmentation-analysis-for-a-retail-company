@@ -40,6 +40,8 @@ By scoring customers on these three metrics, we can group them into meaningful s
 
 Clustering and Customer Segmentation
 We employed clustering techniques, specifically K-Means, to categorize customers into distinct segments. Through testing various cluster numbers, four optimal clusters were identified, each representing different customer behaviors:
+![image](https://github.com/user-attachments/assets/5d92a806-ee8a-4b24-99ba-bb455232c778)
+
 
 VIP Shoppers
 
@@ -49,16 +51,19 @@ Strategy: Offer exclusive rewards, early access to sales, and personalized exper
 Lapsed Big Spenders
 
 Low monetary value, low frequency, and high recency.
+
 These customers haven’t purchased recently, making them at risk of churning.
 Strategy: Implement win-back campaigns with personalized offers to re-engage them.
 Regular Midrange Customers
 
 Medium monetary value, medium frequency, and medium-low recency.
+
 Consistent buyers who show potential for upselling or cross-selling.
 Strategy: Introduce bundled offers and a mid-tier loyalty program to encourage more frequent purchases.
 New or Occasional Buyers
 
 Low monetary value, low frequency, and medium recency.
+
 These customers may be new or purchase infrequently.
 Strategy: Provide incentives like first-time discounts or free shipping to boost repeat purchases.
 Insights and Recommendations
